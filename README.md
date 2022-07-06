@@ -16,5 +16,5 @@ Here we can see the increase and decline metioned before, we can also see the pe
 ## Summary
 
 ###### Advantages and Disacvantages of Refactoring Code
-Advantage wise, we retructure the code witout losing the original output, and with this we achieve a better performance. However, thic allows for the introduction of new, unwanted, bugs into the code.
-The refactoring of this specific code was benefitial to the project because the performance increased. 
+Advantage wise, we retructure the code witout losing the original output, and with this we achieve a better performance. However, this allows for the introduction of new, unwanted, bugs into the code.
+The refactoring of this specific code was beneficial to the project because the performance of the code improved. 
